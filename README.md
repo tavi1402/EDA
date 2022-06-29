@@ -1,2 +1,2 @@
-# EDA
-EDA - Black friday data set  EDA and feature engineering
+# EDA on Blcack Friday
+ Black friday data set  EDA and feature engineering
